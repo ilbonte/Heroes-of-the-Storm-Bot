@@ -1,0 +1,25 @@
+{
+  "name": "hots-bot",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ilbonte/Heroes-of-the-Storm-Bot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ilbonte/Heroes-of-the-Storm-Bot/issues"
+  },
+  "homepage": "https://github.com/ilbonte/Heroes-of-the-Storm-Bot#readme",
+  "dependencies": {
+    "claudia-bot-builder": "^2.13.0"
+  },
+  "devDependencies": {
+    "m.test": "0.0.47"
+  }
+}

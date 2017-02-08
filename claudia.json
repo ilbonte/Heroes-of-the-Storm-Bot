@@ -1,0 +1,11 @@
+{
+  "lambda": {
+    "role": "hots-bot-executor",
+    "name": "hots-bot",
+    "region": "us-east-1"
+  },
+  "api": {
+    "id": "3g8p89roz9",
+    "module": "bot"
+  }
+}
