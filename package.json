@@ -17,10 +17,10 @@
   },
   "homepage": "https://github.com/ilbonte/Heroes-of-the-Storm-Bot#readme",
   "dependencies": {
-    "aws-sdk": "^2.10.0",
-    "claudia-bot-builder": "^2.13.0"
+    "aws-sdk": "^2.16.0",
+    "claudia-bot-builder": "^2.13.2"
   },
   "devDependencies": {
-    "m.test": "0.0.47"
+    "m.test": "0.0.53"
   }
 }
