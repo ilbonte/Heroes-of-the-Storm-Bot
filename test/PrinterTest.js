@@ -3,9 +3,11 @@ const Printer = require('../lib/Printer')
 
 const HERO_WITH_TWO_BUILDS = require('./fixtures/azmodan.json')
 
-test("can print an hero's builds from builds array", function () {
-  var printer = new Printer(HERO_WITH_TWO_BUILDS)  
-  var expected = `All Shall Burn Build
+test("Printer", function () {
+
+  test("can print an hero's builds from builds array", function () {
+    var printer = new Printer(HERO_WITH_TWO_BUILDS)
+    var expected = `All Shall Burn Build
 1 | 3
 4 | 1
 7 | 4
@@ -25,16 +27,17 @@ Taste For Blood Build
 
 `;
 
-  var result = printer.buildsAsText()
+    var result = printer.buildsAsText()
 
-  assert.equal(expected, result)
-})
+    assert.equal(expected, result)
+  })
 
-test("can print an informative message if the build can't be found", function(){
-  var HERO_WITH_NO_BUILDS = []
-  var printer = new Printer(HERO_WITH_NO_BUILDS)  
-  
-  var result = printer.buildsAsText()
+  test("can print an informative message if the build can't be found", function () {
+    var HERO_WITH_NO_BUILDS = []
+    var printer = new Printer(HERO_WITH_NO_BUILDS)
 
-  assert.equal("No builds found", result)
+    var result = printer.buildsAsText()
+
+    assert.equal("No builds found", result)
+  })
 })
