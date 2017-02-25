@@ -33,11 +33,22 @@ Taste For Blood Build
   })
 
   test("can print an informative message if the build can't be found", function () {
-    var HERO_WITH_NO_BUILDS = []
+    var HERO_WITH_NO_BUILDS = {builds:[]}
     var printer = new Printer(HERO_WITH_NO_BUILDS)
 
     var result = printer.buildsAsText()
 
     assert.equal("No builds found", result)
+  })
+
+  test("can print the counter list", function () {
+    var printer = new Printer(HERO_WITH_TWO_BUILDS)
+
+    var result = printer.countersAsText()
+
+    assert.equal(`Counters: 
+diablo
+muradin
+the-butcher`, result)
   })
 })
