@@ -1,0 +1,317 @@
+[
+  {
+    "name": "abathur",
+    "url": "http://www.icy-veins.com/heroes/abathur-build-guide",
+    "type": "specialist"
+  },
+  {
+    "name": "alarak",
+    "url": "http://www.icy-veins.com/heroes/alarak-build-guide",
+    "type": "assasin"
+  },
+  {
+    "name": "anubarak",
+    "url": "http://www.icy-veins.com/heroes/anubarak-build-guide",
+    "type": "warrior"
+  },
+  {
+    "name": "artanis",
+    "url": "http://www.icy-veins.com/heroes/artanis-build-guide",
+    "type": "warrior"
+  },
+  {
+    "name": "arthas",
+    "url": "http://www.icy-veins.com/heroes/arthas-build-guide",
+    "type": "warrior"
+  },
+  {
+    "name": "auriel",
+    "url": "http://www.icy-veins.com/heroes/auriel-build-guide",
+    "type": "support"
+  },
+  {
+    "name": "azmodan",
+    "url": "http://www.icy-veins.com/heroes/azmodan-build-guide",
+    "type": "specialist"
+  },
+  {
+    "name": "brightwing",
+    "url": "http://www.icy-veins.com/heroes/brightwing-build-guide",
+    "type": "support"
+  },
+  {
+    "name": "chen",
+    "url": "http://www.icy-veins.com/heroes/chen-build-guide",
+    "type": "warrior"
+  },
+  {
+    "name": "cho",
+    "url": "http://www.icy-veins.com/heroes/cho-build-guide",
+    "type": "warrior"
+  },
+  {
+    "name": "chromie",
+    "url": "http://www.icy-veins.com/heroes/chromie-build-guide",
+    "type": "assasin"
+  },
+  {
+    "name": "dehaka",
+    "url": "http://www.icy-veins.com/heroes/dehaka-build-guide",
+    "type": "warrior"
+  },
+  {
+    "name": "diablo",
+    "url": "http://www.icy-veins.com/heroes/diablo-build-guide",
+    "type": "warrior"
+  },
+  {
+    "name": "etc",
+    "url": "http://www.icy-veins.com/heroes/e-t-c-build-guide",
+    "type": "warrior"
+  },
+  {
+    "name": "falstad",
+    "url": "http://www.icy-veins.com/heroes/falstad-build-guide",
+    "type": "assasin"
+  },
+  {
+    "name": "gall",
+    "url": "http://www.icy-veins.com/heroes/gall-build-guide",
+    "type": "assasin"
+  },
+  {
+    "name": "gazlowe",
+    "url": "http://www.icy-veins.com/heroes/gazlowe-build-guide",
+    "type": "specialist"
+  },
+  {
+    "name": "greymane",
+    "url": "http://www.icy-veins.com/heroes/greymane-build-guide",
+    "type": "assasin"
+  },
+  {
+    "name": "guldan",
+    "url": "http://www.icy-veins.com/heroes/guldan-build-guide",
+    "type": "assasin"
+  },
+  {
+    "name": "illidan",
+    "url": "http://www.icy-veins.com/heroes/illidan-build-guide",
+    "type": "assasin"
+  },
+  {
+    "name": "jaina",
+    "url": "http://www.icy-veins.com/heroes/jaina-build-guide",
+    "type": "assasin"
+  },
+  {
+    "name": "johanna",
+    "url": "http://www.icy-veins.com/heroes/johanna-build-guide",
+    "type": "warrior"
+  },
+  {
+    "name": "kaelthas",
+    "url": "http://www.icy-veins.com/heroes/kaelthas-build-guide",
+    "type": "assasin"
+  },
+  {
+    "name": "kerrigan",
+    "url": "http://www.icy-veins.com/heroes/kerrigan-build-guide",
+    "type": "assasin"
+  },
+  {
+    "name": "kharazim",
+    "url": "http://www.icy-veins.com/heroes/kharazim-build-guide",
+    "type": "support"
+  },
+  {
+    "name": "leoric",
+    "url": "http://www.icy-veins.com/heroes/leoric-build-guide",
+    "type": "warrior"
+  },
+  {
+    "name": "li_ming",
+    "url": "http://www.icy-veins.com/heroes/li-ming-build-guide",
+    "type": "assasin"
+  },
+  {
+    "name": "lili",
+    "url": "http://www.icy-veins.com/heroes/li-li-build-guide",
+    "type": "support"
+  },
+  {
+    "name": "lt_morales",
+    "url": "http://www.icy-veins.com/heroes/lt-morales-build-guide",
+    "type": "support"
+  },
+  {
+    "name": "lucio",
+    "url": "http://www.icy-veins.com/heroes/lucio-build-guide",
+    "type": "support"
+  },
+  {
+    "name": "lunara",
+    "url": "http://www.icy-veins.com/heroes/lunara-build-guide",
+    "type": "assasin"
+  },
+  {
+    "name": "malfurion",
+    "url": "http://www.icy-veins.com/heroes/malfurion-build-guide",
+    "type": "support"
+  },
+  {
+    "name": "medivh",
+    "url": "http://www.icy-veins.com/heroes/medivh-build-guide",
+    "type": "specialist"
+  },
+  {
+    "name": "muradin",
+    "url": "http://www.icy-veins.com/heroes/muradin-build-guide",
+    "type": "warrior"
+  },
+  {
+    "name": "murky",
+    "url": "http://www.icy-veins.com/heroes/murky-build-guide",
+    "type": "specialist"
+  },
+  {
+    "name": "nazeebo",
+    "url": "http://www.icy-veins.com/heroes/nazeebo-build-guide",
+    "type": "specialist"
+  },
+  {
+    "name": "nova",
+    "url": "http://www.icy-veins.com/heroes/nova-build-guide",
+    "type": "assasin"
+  },
+  {
+    "name": "ragnaros",
+    "url": "http://www.icy-veins.com/heroes/ragnaros-build-guide",
+    "type": "assasin"
+  },
+  {
+    "name": "raynor",
+    "url": "http://www.icy-veins.com/heroes/raynor-build-guide",
+    "type": "assasin"
+  },
+  {
+    "name": "rehgar",
+    "url": "http://www.icy-veins.com/heroes/rehgar-build-guide",
+    "type": "support"
+  },
+  {
+    "name": "rexxar",
+    "url": "http://www.icy-veins.com/heroes/rexxar-build-guide",
+    "type": "warrior"
+  },
+  {
+    "name": "samuro",
+    "url": "http://www.icy-veins.com/heroes/samuro-build-guide",
+    "type": "assasin"
+  },
+  {
+    "name": "sgt_hammer",
+    "url": "http://www.icy-veins.com/heroes/sgt-hammer-build-guide",
+    "type": "specialist"
+  },
+  {
+    "name": "sonya",
+    "url": "http://www.icy-veins.com/heroes/sonya-build-guide",
+    "type": "warrior"
+  },
+  {
+    "name": "stitches",
+    "url": "http://www.icy-veins.com/heroes/stitches-build-guide",
+    "type": "warrior"
+  },
+  {
+    "name": "sylvanas",
+    "url": "http://www.icy-veins.com/heroes/sylvanas-build-guide",
+    "type": "specialist"
+  },
+  {
+    "name": "tassadar",
+    "url": "http://www.icy-veins.com/heroes/tassadar-build-guide",
+    "type": "support"
+  },
+  {
+    "name": "the_butcher",
+    "url": "http://www.icy-veins.com/heroes/the-butcher-build-guide",
+    "type": "assasin"
+  },
+  {
+    "name": "the_lost_vikings",
+    "url": "http://www.icy-veins.com/heroes/the-lost-vikings-build-guide",
+    "type": "specialist"
+  },
+  {
+    "name": "thrall",
+    "url": "http://www.icy-veins.com/heroes/thrall-build-guide",
+    "type": "assasin"
+  },
+  {
+    "name": "tracer",
+    "url": "http://www.icy-veins.com/heroes/tracer-build-guide",
+    "type": "assasin"
+  },
+  {
+    "name": "tychus",
+    "url": "http://www.icy-veins.com/heroes/tychus-build-guide",
+    "type": "assasin"
+  },
+  {
+    "name": "tyrael",
+    "url": "http://www.icy-veins.com/heroes/tyrael-build-guide",
+    "type": "warrior"
+  },
+  {
+    "name": "tyrande",
+    "url": "http://www.icy-veins.com/heroes/tyrande-build-guide",
+    "type": "support"
+  },
+  {
+    "name": "uther",
+    "url": "http://www.icy-veins.com/heroes/uther-build-guide",
+    "type": "support"
+  },
+  {
+    "name": "valeera",
+    "url": "http://www.icy-veins.com/heroes/valeera-build-guide",
+    "type": "assasin"
+  },
+  {
+    "name": "valla",
+    "url": "http://www.icy-veins.com/heroes/valla-build-guide",
+    "type": "assasin"
+  },
+  {
+    "name": "varian",
+    "url": "http://www.icy-veins.com/heroes/varian-build-guide",
+    "type": "warrior"
+  },
+  {
+    "name": "xul",
+    "url": "http://www.icy-veins.com/heroes/xul-build-guide",
+    "type": "specialist"
+  },
+  {
+    "name": "zagara",
+    "url": "http://www.icy-veins.com/heroes/zagara-build-guide",
+    "type": "specialist"
+  },
+  {
+    "name": "zarya",
+    "url": "http://www.icy-veins.com/heroes/zarya-build-guide",
+    "type": "warrior"
+  },
+  {
+    "name": "zeratul",
+    "url": "http://www.icy-veins.com/heroes/zeratul-build-guide",
+    "type": "assasin"
+  },
+  {
+    "name": "zuljin",
+    "url": "http://www.icy-veins.com/heroes/zuljin-build-guide",
+    "type": "assasin"
+  }
+]
