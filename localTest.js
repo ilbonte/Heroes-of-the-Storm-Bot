@@ -1,5 +1,7 @@
 const readline = require('readline');
 let assistant = require('./lib/hotsBot')
+var events = require('events');
+var myEmitter = new events.EventEmitter()
 const rl = readline.createInterface({
   input: process.stdin,
   output: process.stdout,
@@ -16,20 +18,22 @@ rl.on('line', (line) => {
     default:
       const request = requestWithCommand(line.trim())
       const botResponse = assistant(request)
-      Promise.resolve(botResponse).then(console.log)
+      Promise.resolve(botResponse).then(console.log).then(()=> rl.write(null, {ctrl: true, name: 'u'})).catch(err => console.log(err))
+      
       break;
   }
-  rl.prompt();
-});
 
+
+});
 
 function requestWithCommand(command) {
   return minimalCommand = {
     "text": command,
     "originalRequest": {
       "message": {
-        "date": (+ new Date()/1000).toFixed(0),
+        "date": (+ new Date() / 1000).toFixed(0),
         "text": command,
+        "message_id": "1234",
         "entities": [
           {
             "type": "bot_command"

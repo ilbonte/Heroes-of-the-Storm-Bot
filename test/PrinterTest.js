@@ -47,8 +47,8 @@ Taste For Blood Build
     var result = printer.countersAsText()
 
     assert.equal(`Counters: 
-diablo
-muradin
-the-butcher`, result)
+/diablo
+/muradin
+/the-butcher`, result)
   })
 })
